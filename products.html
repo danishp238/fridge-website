@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Products • FrostLogic</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="antialiased text-gray-800 page-enter">
+
+    <!-- Header -->
+    <header id="header"></header>
+
+    <main>
+        <!-- Products Header -->
+        <section class="bg-gradient-to-br from-gray-50 to-blue-50 py-12 px-4">
+            <div class="max-w-7xl mx-auto text-center">
+                <h1 class="text-4xl md:text-5xl font-extrabold text-gray-900 mb-4">Our Product Collection</h1>
+                <p class="text-gray-600 text-lg max-w-2xl mx-auto">Detailed reviews and honest recommendations for every
+                    appliance</p>
+            </div>
+        </section>
+
+        <!-- Filter Buttons -->
+        <!-- Filter Buttons -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+            <div class="flex flex-wrap justify-center gap-3">
+                <button
+                    class="filter-btn active px-6 py-3 rounded-full font-semibold text-sm bg-blue-600 text-white shadow-md"
+                    data-category="all">
+                    🏠 All Products
+                </button>
+                <button
+                    class="filter-btn px-6 py-3 rounded-full font-semibold text-sm bg-white text-gray-700 shadow-sm border border-gray-200 hover:border-blue-300"
+                    data-category="fridges">
+                    ❄️ Fridges
+                </button>
+                <button
+                    class="filter-btn px-6 py-3 rounded-full font-semibold text-sm bg-white text-gray-700 shadow-sm border border-gray-200 hover:border-blue-300"
+                    data-category="acs">
+                    🌬️ Air Conditioners
+                </button>
+            </div>
+        </section>
+
+        <!-- Products Grid -->
+        <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
+            <div id="productsGrid"
+                class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 transition-all duration-500">
+                <!-- Products will be dynamically loaded here -->
+            </div>
+
+            <!-- Empty state (hidden by default) -->
+            <div id="emptyState" class="hidden text-center py-16">
+                <div class="text-6xl mb-4">📦</div>
+                <h3 class="text-2xl font-bold text-gray-800 mb-2">No products found</h3>
+                <p class="text-gray-600">Try selecting a different category</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <!-- Enhanced Footer -->
+    <footer id="footer"></footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
