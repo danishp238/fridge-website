@@ -101,6 +101,19 @@ const products = [
         slug: "frigidaire-7-5-cu-ft-top-mount-refrigerator-review"
     },
 
+    {
+        id: 9,
+        name: "Arctic King 1.7 Cu. Ft. Compact Refrigerator, Black",
+        category: "fridges",
+        price: 149.00, // Update to match exact listing or retailer price if available
+        rating: 4.3,
+        reviews: 112,
+        image: "https://placehold.co/400x400/eef2ff/2563eb?text=Arctic+King+1.7+Cu+Ft",
+        description: "Compact Energy Star mini fridge in black finish, ideal for dorm rooms, home offices, bedrooms, and small spaces.",
+        badge: "Compact Choice",
+        slug: "arctic-king-1-7-cu-ft-compact-refrigerator-review"
+    },
+
 ];
 
 // Articles data for article page
@@ -642,6 +655,56 @@ const articles = {
             {
                 heading: "Target Audience & Organization Tips for Maximum Storage",
                 content: "Who should buy this fridge? Suitable for single persons, couples, students, apartment residents, small/medium kitchens, office lunchrooms, guest rooms, rental properties, garages, basements, and buyers who do not shop bulk groceries. Who should search elsewhere? Not recommended for large households, bulk shoppers, buyers needing large freezer capacity, or those desiring smart features, built-in ice makers, or water dispensers. Best way to maximize storage capacity: Organize logically by using adjustable shelves for varied package heights; place tall bottles and heavy containers in full-width door racks; use the transparent crisper strictly for fresh produce; stack frozen items in sections inside the freezer (upper section for frozen fruits/vegetables, lower section for prepared meals and meats, and door for small frozen packs); and eliminate unnecessary original product packaging to save interior space."
+            }
+        ]
+    },
+
+    "arctic-king-1-7-cu-ft-compact-refrigerator-review": {
+        title: "Arctic King 1.7 Cu. Ft. Compact Refrigerator, Black Review",
+        category: "fridges",
+        date: "September 2026",
+        author: "Kitchen Tech Team",
+        readTime: "8 min read",
+        rating: 4.3,
+        price: 149.00,
+        mainImage: "https://placehold.co/800x500/eef2ff/2563eb?text=Arctic+King+1.7+Cu+Ft+Review",
+        summary: "The Arctic King 1.7 Cu. Ft. Compact Refrigerator provides an energy-efficient, space-saving cooling solution designed for dorm rooms, home offices, bedrooms, and small personal spaces.",
+        sections: [
+            {
+                heading: "Introduction",
+                content: "The Arctic King 1.7 cubic feet small fridge in black (Energy Star certified) is a practical option for situations where purchasing or keeping a large, full-sized refrigerator simply does not make sense. Whether you are a student living in a college dorm room, a single individual, a couple in a tiny apartment, or a remote worker operating from a home office, having accessible personal cold storage can transform your routine. Employees in corporate offices, tenants in tight spaces, and homeowners seeking a dedicated secondary beverage or snack cooler will find high utility in a compact unit like this.\n\nWhile a full family-size fridge is essential when buying bulk groceries, fresh produce, large drink containers, and meal preps for three or more people, a compact mini fridge is engineered specifically for smaller spaces and individual use. The Arctic King 1.7 cubic foot model hits a sweet spot between minimal footprint and daily convenience, ensuring cold drinks and quick bites are always within arm's reach."
+            },
+            {
+                heading: "Overview & Specifications",
+                content: "This model is designed specifically for places and scenarios where budget and floor space are the primary constraints. Its 1.7 cubic feet capacity places it firmly in the compact mini fridge category, ideal for personal utility rather than multi-person grocery stocking.\n\n* **Brand:** Arctic King\n* **Capacity:** 1.7 Cubic Feet\n* **Type:** Compact / Mini Refrigerator\n* **Color/Finish:** Black\n* **Energy Rating:** Energy Star Certified\n* **Installation:** Freestanding\n* **Ideal Locations:** Dorms, bedrooms, home offices, personal workstations, guest rooms, entertainment spaces, garages, workshops, and rental units."
+            },
+            {
+                heading: "Why Choose a 1.7 Cu. Ft. Mini Fridge?",
+                content: "Understanding the intended purpose of a 1.7 cubic foot fridge is key to enjoying it. It is tailored for individual, light-duty storage and should not be directly compared to 15, 18, or 25 cubic foot family appliances. The core value here is **convenience**.\n\nInstead of repeatedly walking to the main kitchen, a personal mini fridge keeps your daily essentials nearby:\n* Soft drinks, sparkling water, and canned beverages\n* Bottled water and juices\n* Milk, creamers, and dairy products\n* Fresh fruit, yogurts, and healthy snacks\n* Prepped lunches, sandwiches, and small leftovers\n\nHaving a dedicated snack or drink station in a home office or bedroom saves time, improves focus during long working hours, and provides effortless hospitality for guest rooms or entertainment setups."
+            },
+            {
+                heading: "Design, Finish & Space Requirements",
+                content: "The sleek black finish enables this unit to blend seamlessly into modern decors without drawing unnecessary attention. In home offices, entertainment rooms, or bedrooms, dark appliances easily match dark furniture, computer desks, or audio-visual setups.\n\n### Space & Installation Considerations\nEven small appliances require proper clearance to operate efficiently. Before purchasing, verify your setup against these factors:\n\n1. **Dimensions:** Measure the exact height, width, and depth of your target area.\n2. **Door Clearance:** Ensure adequate space for the door to swing open completely without hitting walls, desks, or adjacent furniture.\n3. **Ventilation:** Allow sufficient breathing room around the back and sides. Enclosing or 'boxing in' a mini fridge restricts airflow and forces the cooling system to overheat.\n4. **Power Access:** Ensure proximity to a standard electrical outlet without overusing extension cords.\n5. **Floor Stability:** Place the unit on a flat, level surface to minimize operation noise and vibration."
+            },
+            {
+                heading: "Ideal Use Cases",
+                content: "The versatility of the Arctic King 1.7 Cu. Ft. fridge makes it suitable for various living and working setups:\n\n* **College Dorm Rooms:** Perfect for students who need access to milk, yogurt, snacks, and water. *(Note: Always check your university's specific dorm rules regarding allowed electrical appliance dimensions and wattage).* \n* **Home Offices:** Keeps remote workers focused by eliminating frequent trips to the main kitchen.\n* **Bedrooms & Guest Rooms:** Provides immediate refreshment for guests or late-night drinks without disturbing the entire household.\n* **Workplace Breakrooms & Private Desks:** Offers employees personal storage separate from shared office refrigerators.\n* **Garages, Workshops & Game Rooms:** Serves as a convenient cold station during leisure or work activities."
+            },
+            {
+                heading: "Energy Efficiency & Practical Energy-Saving Tips",
+                content: "Refrigerators are among the few household appliances that run continuously—24 hours a day, 7 days a week. The Energy Star certification on the Arctic King 1.7 Cu. Ft. model helps keep electricity costs low, but overall energy consumption also depends on how you use and maintain the unit.\n\n### Practical Energy-Saving Tips:\n* **Correct Installation:** Place the unit away from direct sunlight, radiators, or high-heat appliances.\n* **Minimize Door Openings:** Opening the door frequently allows cold air to escape, forcing the compressor to work harder.\n* **Cool Hot Food First:** Allow cooked meals or hot leftovers to reach room temperature before placing them inside.\n* **Inspect & Clean Door Gaskets:** Keep the door seal clean and free of debris to ensure an airtight closure.\n* **Avoid Extreme Ambient Temperatures:** Avoid operating the fridge in unconditioned spaces subject to extreme hot or cold fluctuations."
+            },
+            {
+                heading: "Compact vs. Family-Size Refrigerator Comparison",
+                content: "To evaluate if a 1.7 cu. ft. mini fridge suits your needs, consider how it compares against full-sized family units:\n\n| Feature / Metric | Arctic King 1.7 Cu. Ft. Mini Fridge | Full Family-Size Refrigerator | \n| :--- | :--- | :--- |\n| **Physical Footprint** | Very small & compact | Large floor space required |\n| **Storage Capacity** | 1.7 cu. ft. (Individual/Snack scale) | 15.0 - 25.0+ cu. ft. (Multi-person scale) |\n| **Portability** | Easy to relocate/move | Requires multiple people/special equipment |\n| **Best Used For** | Drinks, snacks, personal meals, dorms | Weekly grocery runs, bulk purchases, family prep |\n| **Purchase Cost** | Budget-friendly & affordable | Significant financial investment |\n| **Placement Flexibility** | Desks, bedrooms, offices, small corners | Dedicated kitchen cutout required |"
+            },
+            {
+                heading: "Pros and Cons",
+                content: "### Pros:\n* **Compact Footprint:** Fits into tight rooms, under desks, or in small corners effortlessly.\n* **Personalized Storage:** Allows you to keep your personal items separate from shared household or breakroom fridges.\n* **Modern Black Finish:** Clean aesthetic that complements home and office furniture.\n* **Energy Star Certified:** Low power consumption for continuous 24/7 operation.\n* **Versatile Utility:** Excellent for dorms, home offices, bedrooms, rentals, and workshops.\n\n### Cons:\n* **Limited Capacity:** Not designed for full grocery storage or families.\n* **Minimal/No Freezer Space:** Unsuitable for storing large frozen meals or bulk frozen foods.\n* **Compressor Noise:** Like all compressor-driven fridges, periodic cooling cycles produce light operational sounds (a consideration for sensitive sleepers).\n* **Requires Smart Packing:** Large multi-packs or tall containers can quickly fill up the interior space."
+            },
+            {
+                heading: "Organization & Maintenance Guidelines",
+                content: "### Maximizing Small Space Storage\nTo get the most out of a 1.7 cubic feet capacity, organization is critical:\n* **Unpack Bulk Items:** Remove single drink cans or snacks from bulky outer cardboard boxes before storing them inside.\n* **Use Small Containers:** Opt for compact, stackable containers rather than oversized containers.\n* **Ensure Air Circulation:** Avoid packing items too tightly against the interior back wall so cold air can circulate freely.\n\n### Maintenance Routine\n1. **Unplug Before Cleaning:** Always disconnect the power source prior to maintenance.\n2. **Wipe Down Interior Surfaces:** Clean shelves, interior walls, and door gaskets using a mild cleaner or warm soapy water.\n3. **Avoid Harsh Chemicals:** Do not use abrasive pads or aggressive chemicals that can damage inner plastic liners.\n4. **Dry Thoroughly:** Ensure all surfaces are dry before plugging the unit back in and re-stocking items."
             }
         ]
     }
